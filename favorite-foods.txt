@@ -5,8 +5,5 @@ Pasta
 Chocolate
 Potato Chips
 Tacos
-<<<<<<< HEAD
 Mac and Cheese
-=======
-Potatos
->>>>>>> Added another favorite
+FOOD
