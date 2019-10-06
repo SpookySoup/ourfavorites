@@ -8,3 +8,6 @@ Tacos
 Mac and Cheese
 FOOD
 Cookies
+Salmon
+Carrots
+Apples
